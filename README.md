@@ -21,3 +21,8 @@ Este projeto é uma calculadora em Python para simular o desconto do INSS sobre 
 
 ```bash
 python calculadora_inss.py
+
+## 👨‍💻 Desenvolvido por
+
+Danilo 🧠  
+
