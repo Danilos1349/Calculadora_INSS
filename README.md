@@ -23,6 +23,10 @@ Este projeto é uma calculadora em Python para simular o desconto do INSS sobre 
 python calculadora_inss.py
 ```
 
+## Licença
+
+Este projeto é livre para fins educacionais e pessoais.
+
 ## 👨‍💻 Desenvolvido por
 
 Danilo 🧠  
